@@ -18,6 +18,9 @@ This dashboard provides a comprehensive view of crime trends across Indian state
 - Crime rates per 1,00,000 population.
 - Heatmap visualization to detect high-crime regions.
 
+#### 🖼️ Screenshot  
+![Crime Dashboard](screenshots/crime-dashboard.png)
+
 #### 🗂️ Dataset
 - Source: National Crime Records Bureau (NCRB), Government of India
 - Format: CSV/Excel
@@ -35,6 +38,9 @@ This dashboard visualizes historical election data from Lok Sabha elections in I
 - Interactive maps showing party-wise seat distribution.
 - Voter turnout by year and region.
 - Trends in coalition dynamics.
+
+#### 🖼️ Screenshot  
+![Election Dashboard](screenshots/election-dashboard.png)
 
 #### 🗂️ Dataset
 - Source: Election Commission of India
@@ -54,9 +60,14 @@ A data-driven analysis of real estate sales trends across different regions. The
 - Agent performance dashboard.
 - Inventory and sales comparison.
 
+#### 🖼️ Screenshot  
+![Real Estate Dashboard](screenshots/realestate-dashboard.png)
+
 #### 🗂️ Dataset
 - Source: Kaggle / Real Estate API datasets
 - Format: CSV
+
+---
 
 ### 4. 🍽️ Swiggy Analysis Dashboard
 **File:** `Swiggy Analysis.pbix`
@@ -70,10 +81,14 @@ A detailed analysis of Swiggy’s customer orders, delivery times, and restauran
 - Top performing restaurants.
 - Most ordered cuisines and categories.
 
+#### 🖼️ Screenshot  
+![Swiggy Dashboard](screenshots/swiggy-dashboard.png)
+
 #### 🗂️ Dataset
 - Source: Mock Data / Public Swiggy Order Logs
 - Format: CSV/Excel
 
+---
 
 ## 🛠️ Tools & Technologies
 - Microsoft Power BI
@@ -81,6 +96,7 @@ A detailed analysis of Swiggy’s customer orders, delivery times, and restauran
 - Power Query for data transformation
 - Geo Maps, Slicers, Cards, Matrix visualizations
 
+---
 
 ## 📜 License
 This project is open-source and available under the MIT License.
@@ -88,4 +104,4 @@ This project is open-source and available under the MIT License.
 ---
 
 ## 🙋‍♂️ Author
-**Anand Patel**  
+**Anand Patel**
